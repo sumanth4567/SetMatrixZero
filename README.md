@@ -1,5 +1,5 @@
 # SetMatrixZero
-this is a medium level problem from leet code
+this is a medium level problem from leet code-73
 so basically the description of this problem is as follows:
 we will be given a matrix of size m*n and the values will be binary(0,1) we have to return a matrix in which the row and column in which 0 is present should be changed to 0
 
